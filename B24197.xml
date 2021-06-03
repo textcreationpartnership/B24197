@@ -1,0 +1,2208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The historical parts of the Old and New Testament, in verse With one hundred and twenty cuts, being the best use of poetry and sculpture.</title>
+         </titleStmt>
+         <extent>Approx. 55KB of XML-encoded text transcribed from 65 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24197</idno><idno type="EEBO-CITATION">99828692</idno>
+  <idno type="VID">206948</idno>
+  <idno type="EEBO-PROQUEST">2264207604</idno>
+  
+            <idno type="STC">Wing H2106A</idno>
+            <idno type="PROQUEST">99828692</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828692e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206948)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1867:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The historical parts of the Old and New Testament, in verse With one hundred and twenty cuts, being the best use of poetry and sculpture.</title>
+               </titleStmt>
+               <extent>[63] leaves : ill. (metal cuts)  </extent>
+               <publicationStmt>
+                  <publisher>printed for Sam. Keble at the Great Turk's-Head, in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCIV. [1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an additional title page, engraved: The history of the old &amp; new Testament described in figures.</note>
+                  <note>Structure is indeterminate. The leaves are [1] engraved title page, [2] letterpress title page, [3] preface, with verses 1 and 2 on verso, [4] plate (illustrations to verses 1 and 2). Letterpress &amp; engraved leaves generally alternate. Beginning with verses 3 and 4, each letterpress leaf is individually signed B,C, .. 2I. (Leaf H is signed "I" on verso; next letterpress leaf is lacking in catalogued copy, but assumed to be K; the next is L.).</note>
+                  <note>Apparently several editions exist. In this edition, last line of text on signature E reads: "And there their mighty Father they deplore."The last line of text on signature O reads: "And she in Boaz with surprizing kindness meets." Last line of text on signature 2E reads: "While to Cæsar he reserves, what Cæsar's is.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible --  Picture Bibles --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206948:1"/>
+            <p>THE Historical Parts OF THE Old and New TESTAMENT, IN VERSE.</p>
+            <p>WITH One Hundred and Twenty CUTS, being the best use of Poetry and Sculpture.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Sam. Keble</hi> at the <hi>Great Turk's-Head,</hi> in <hi>Fleet-street,</hi> MDCXCIV.</p>
+            <pb facs="tcp:206948:2"/>
+            <pb facs="tcp:206948:2"/>
+         </div>
+         <div type="engraved_title_page">
+            <pb facs="tcp:206948:3"/>
+            <pb facs="tcp:206948:3"/>
+            <p>THE HISTORY of the old &amp; new TESTAMENT described in FIGURES.</p>
+            <p>
+               <figure>
+                  <figDesc>engraved title page</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:4"/>
+            <pb facs="tcp:206948:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:206948:5"/>
+            <head>ERRATA.</head>
+            <p>No. 86. f. <hi>Priest,</hi> r. <hi>prest.</hi>
+            </p>
+            <p>No. 77. f. <hi>in horror,</hi> r. <hi>in horror.</hi>
+            </p>
+            <p>No. 76. f. <hi>depeison,</hi> r. <hi>decition.</hi>
+            </p>
+            <p>No. 108. <hi>regard's, with this mark,</hi> and f. <hi>ill,</hi> r. <hi>still.</hi>
+            </p>
+            <p>No 46. f. <hi>he meets,</hi> r. <hi>he greets.</hi>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:206948:5"/>
+            <head>THE PREFACE.</head>
+            <p>THE Figures or Cuts relating to this Book having, whilst alone met with good Encouragement, it was thought fit that they might be rendered the more useful to add the Explanation of them in Verse; whereby Children may the better retain the Idea of those Figures, which with the Verse will very much induce them to the reading of the Holy Scriptures, and bring them to a more familiar acquaintance with Holy Writ, to the bettering of them here, and their attaining unspeakable Joys and e<g ref="char:EOLhyphen"/>verlasting Bliss in the World to come.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:206948:6"/>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 1.)</head>
+               <l>Sing our first Parents happy state,</l>
+               <l>Aid me, O God, who for thy help do wait;</l>
+               <l>In all the Sacred Work, do thou assist!</l>
+               <l>Be present with me still, and grant the just request.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 2.)</head>
+               <l>With our first Parents then begin!</l>
+               <l>Of happy them, and <hi>Eden</hi> sing!</l>
+               <l>Of Paradice, and the new Creation,</l>
+               <l>'Ere sin, and foul transgression,</l>
+               <l>Ruin'd the happy state of man;</l>
+               <l>From God and <hi>Eden</hi> drove with shame.</l>
+            </lg>
+            <pb facs="tcp:206948:6"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>
+                     <hi>1 Gen: 2.3.4. Cap<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Adam and Euē</hi>
+                  </head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>2 droue out of Eden</head>
+                  <q>
+                     <hi>8 And y<seg rend="sup">e</seg> Lord god planted a garden, &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi>16 And y<seg rend="sup">e</seg> Lord god com̄anded y<seg rend="sup">e</seg> man, &amp;c</hi>
+                  </q>
+                  <q>
+                     <hi>25 And they were both naked, &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi>III 24 So he droue out y<seg rend="sup">e</seg> man, &amp; he placed &amp;c.</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:7"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>3 Cain &amp; Abels sacrafice</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>4 Cain slaieth Abel</head>
+                  <q>
+                     <hi>IIII 3 Cain brought of y<seg rend="sup">e</seg> frute of y<seg rend="sup">e</seg> ground &amp;c</hi>
+                  </q>
+                  <q>
+                     <hi>4 And Abell he also brought of y<seg rend="sup">e</seg> fatlings of his flock and the fat thereof &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi>8 Cain rose up against Abel his brother &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:7"/>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 3.)</head>
+               <l>Next unhappy <hi>Abel,</hi> and accursed <hi>Cain;</hi>
+               </l>
+               <l>Sing Righteous <hi>Abel,</hi> by his Brother slain.</l>
+               <l>While each his Sacrifice prepares,</l>
+               <l>Heaven in the behalf of <hi>Abel</hi> streight declares.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 4.)</head>
+               <l>Rejected <hi>Cain,</hi> on murder streight is bent;</l>
+               <l>In murder, he resolves his rage to vent;</l>
+               <l>The Favourite of God, and Heir of all the World,</l>
+               <l>From Life, and from his just Inheritance is hurl'd.</l>
+            </lg>
+            <pb facs="tcp:206948:8"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>5 Noah entreth the Arck Gen: 7:1.</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>6 The waters prevail. 7:12.</head>
+                  <q>
+                     <hi>Gen: 7:1. And y<seg rend="sup">e</seg> Lord said unto Noah, come thou and all thy house into &amp;c</hi>
+                  </q>
+                  <q>
+                     <hi>Gen: 7:12 And y<seg rend="sup">e</seg> rain was upon y<seg rend="sup">e</seg> earth fortie dayes and fortie nights &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:8"/>
+               <head>(N<seg rend="sup">o</seg>. 5.)</head>
+               <l>A sinful Deluge, does a watry Deluge cause;</l>
+               <l>And the prevailing Waters, all the World amaze;</l>
+               <l>
+                  <hi>Noah</hi> by God's command, an Ark prepares,</l>
+               <l>Whom God, the only Righteous man declares.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 6.)</head>
+               <l>The rowling Ocean over all prevailes,</l>
+               <l>Only the wondrous Ark in Triumph sailes:</l>
+               <l>Of a new World, the fruitful Seed it bears,</l>
+               <l>Its mighty head, o're all the Billows rears,</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:9"/>
+               <head>(N<seg rend="sup">o</seg>. 7.)</head>
+               <l>At length the Waters to their bounds return,</l>
+               <l>Nor must the World a second Deluge mourn.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 8.)</head>
+               <l>On airy <hi>Arraret</hi>'s Head, the Sacred load descends,</l>
+               <l>A perpetual promise, and a radiant Bow defends</l>
+               <l>The rescu'd World from fear of future floods,</l>
+               <l>Tho future Crimes prepare for other rods.</l>
+            </lg>
+            <pb facs="tcp:206948:9"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>7 The waters dried up. 8:16.</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>8 Gods Covenāt w:<seg rend="sup">th</seg> Noah Gen: 9.13.</head>
+                  <q>
+                     <hi>Gen: 8.16. Go forth of y<seg rend="sup">e</seg> Ark, thou and thy wife, &amp; thy sons, &amp; thy sons wiues &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>Gen: 9:13. I do set my bow in y<seg rend="sup">e</seg> cloud, &amp; it shall be for a token of y<seg rend="sup">e</seg> Covenant &amp;c.</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:10"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>9 Abra:<seg rend="sup">m</seg> entertaineth 3 Angels Gen: 18 8</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>10 Lot and his two Daugters Gen: 19:32</head>
+                  <q>
+                     <hi>Gen: 18.8 And he took butter &amp; milk and y<seg rend="sup">e</seg> calfe which he had dressed &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi>Gen: 19:32 Come let us make our fa<seg rend="sup">r</seg>: drink wine and we will lie w<seg rend="sup">th</seg>: him</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:10"/>
+               <head>(N<seg rend="sup">o</seg>. 9.)</head>
+               <l>Of <hi>Abraham</hi> next, and of the wondrous Feast,</l>
+               <l>Where Angels, and where God himself's a Guest.</l>
+               <l>O wondrous! that he who made this mighty frame,</l>
+               <l>With thee to feast should not disdain.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 10.)</head>
+               <l>With sadder note of <hi>Lot</hi>'s incestuous, sing!</l>
+               <l>Tho Brother to the Sacred mighty King;</l>
+               <l>Sing mournful tunes of him, and of the Cave,</l>
+               <l>And of the unlawful Wine his Daughters gave,</l>
+               <l>The gloomy, damp, incestuous Cave,</l>
+               <l>Would mournful heavy numbers have;</l>
+               <l>But the unnatural guilt and lust obscene,</l>
+               <l>Choaks and clogs the heavy Song.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:11"/>
+               <head>(N<seg rend="sup">o</seg>. 11.)</head>
+               <l>The persecuted <hi>Hagar</hi> from her Mistress <hi>Sarah</hi> flies,</l>
+               <l>Thus still the barren Womb, the fruitful envies:</l>
+               <l>But <hi>Sarah</hi>'s after Issue, was the chosen race,</l>
+               <l>And <hi>Isaac,</hi> all the mightier blessings grace.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 12.)</head>
+               <l>Faithful in the greatest tryal <hi>Abraham</hi> proves,</l>
+               <l>Much he his only Son, but more his God he loves;</l>
+               <l>The strange command, he readily obeys,</l>
+               <l>His hand was strecht and ready, which an Angel stays.</l>
+            </lg>
+            <pb facs="tcp:206948:11"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>11 Hagars flight Gen: XVI: 7</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>12 Abrams triall Gen: 22:10:</head>
+                  <q>
+                     <hi>16:7 And y<seg rend="sup">e</seg> Angel of the Lord found her by a fountain &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi>22:10 And Abraham stretched forth his hand and tooke his knife &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:12"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>13 Isaac and Rebekah Gen: 24:17</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>14 Abrahams buriall Gen: 25:9</head>
+                  <q>
+                     <hi>Gen: 24:17 And y<seg rend="sup">e</seg> servant ran to meet her &amp; said Let me (I pray thee) drink &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi>Gen: 25:9. And his sons Isaac and Ismael buried him in y<seg rend="sup">e</seg> caue of Machpelalah</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:12"/>
+               <head>(N<seg rend="sup">o</seg>. 13.)</head>
+               <l>What surer proof can e're be given,</l>
+               <l>That Sacred knots are ty'd in Heaven?</l>
+               <l>Just as the faithful Servant prays,</l>
+               <l>The fair <hi>Rebeckah</hi> streight obeys.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 14.)</head>
+               <l>To death at length the Father of the faithful yields</l>
+               <l>The solemn Rites perform'd in <hi>Ephron</hi>'s Fields:</l>
+               <l>
+                  <hi>Isaac</hi> and <hi>Ismael</hi> there inter,</l>
+               <l>And there their mighty Father they deplore.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:13"/>
+               <head>(N<seg rend="sup">o</seg>. 15.)</head>
+               <l>The utmost force of hunger here is seen,</l>
+               <l>That <hi>Esau</hi> his Birthright should disdain;</l>
+               <l>And for a Mess of Pottage, should become</l>
+               <l>Subject to <hi>Jacob</hi> and the younger Son.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 16.)</head>
+               <l>To happy <hi>Jacob</hi> all the Blessings fall,</l>
+               <l>Belov'd of God, he now inherits all.</l>
+               <l>The Birthright, and his Father's erring hand,</l>
+               <l>Crown him with Blessings, and a full Command.</l>
+            </lg>
+            <pb facs="tcp:206948:13"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>15 Iacob and Esau Gen: 25:31</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>16 Rebekah and Iacob Gen: 27:8.</head>
+                  <q>
+                     <hi>Gen: 25:31 And Iacob said sell mee this day thy birth right. And Esau said &amp;c</hi>
+                  </q>
+                  <q>
+                     <hi>Gen: 27:8. Now therefore my son obey my voyce, according to that w<seg rend="sup">ch</seg>: I &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:14"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>17 Iacobs Ladder Gen: 28:12</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>18 Iacob and Rachell Gen: 29:3</head>
+                  <q>
+                     <hi>Gen: 2<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>12 And he dreamed and behold a ladder set upon y<seg rend="sup">e</seg> earth &amp; y<seg rend="sup">e</seg> top &amp;<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi>
+                  </q>
+                  <q>
+                     <hi>Gen: 29:3 And they rolled y<seg rend="sup">e</seg> stone frō: y<seg rend="sup">e</seg> wells mouth &amp; watred y<seg rend="sup">e</seg> sheep &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:14"/>
+               <head>(N<seg rend="sup">o</seg>. 17.)</head>
+               <l>Dissolv'd in sleep the weary Traveller sees,</l>
+               <l>On a mysterious Ladder reaching to the Skies,</l>
+               <l>Ascending and Descending Angels stand</l>
+               <l>Obeying him who all things does command.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 18.)</head>
+               <l>Behold another Marriage made in Heaven,</l>
+               <l>While the fair <hi>Rachel</hi> is to <hi>Jacob</hi> given;</l>
+               <l>At <hi>Haran</hi>'s Well, their loves were kindled first,</l>
+               <l>At <hi>Laban</hi>'s House, is kept the marriage Feast.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:15"/>
+               <head>(N<seg rend="sup">o</seg>. 19.)</head>
+               <l>Well o're thy Brother <hi>Esau</hi> may'st thou now prevail</l>
+               <l>When with a wrestling Angel thou could'st d<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al:</l>
+               <l>Till Morning light the unequal struggle was maintain'd,</l>
+               <l>Wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n toucht in th' hollow of his Thigh, the grapple he declin'd.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 20.)</head>
+               <l>Blest with the name of <hi>Israel</hi> he goes on,</l>
+               <l>Conquering an Angel, well might he a man,</l>
+               <l>His vengeful Brother in the utmost Peace he meets,</l>
+               <l>And <hi>Esau,</hi> with forgiving Love, his Brother greets.</l>
+            </lg>
+            <pb facs="tcp:206948:15"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>19 Iacob and y<seg rend="sup">e</seg> Angell Gen: 32:24</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>20 Iacob meeteth Esau Gen: 33:24</head>
+                  <q>
+                     <hi>Gen: 32:24: And there wresled a man with him untill y<seg rend="sup">e</seg> braking of y<seg rend="sup">e</seg> day. </hi>
+                  </q>
+                  <q>
+                     <hi>Gen: 33:4 And Esau ran to meet him and embraced him and sett on &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:16"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>21 Dinah Ravished Gen: 34:2</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>22 The Shechemites slain 34 26</head>
+                  <q>
+                     <hi>And when Shechem y<seg rend="sup">e</seg> Son of Hamor or y<seg rend="sup">e</seg> Hevite Princ<seg rend="sup">e</seg> of y<seg rend="sup">e</seg> countrey &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi>And they slew Hamor and Shechem his son with y<seg rend="sup">e</seg> edge of the sword &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:16"/>
+               <head>(N<seg rend="sup">o</seg>. 21.)</head>
+               <l>
+                  <hi>Hamor,</hi> like <hi>Ely,</hi> for his wicked Son must dye,</l>
+               <l>And in the ruines of the murder'd City lie;</l>
+               <l>While <hi>Shechem</hi> with unlawful Love the beauteous <hi>Dinah</hi> meets,</l>
+               <l>He and all his Fathers House in murder sleeps.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 22.)</head>
+               <l>The Sons of <hi>Israel</hi> from the Field return'd,</l>
+               <l>With vengeance for their ravisht Sister burn'd:</l>
+               <l>The <hi>Shechemites</hi> with pretended Circumcision sore,</l>
+               <l>Vanquisht young <hi>Shechem</hi>'s Rape in death deplore.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:17"/>
+               <head>(N<seg rend="sup">o</seg>. 23.)</head>
+               <l>While <hi>Judah</hi> to his Daughter-in-Law denies</l>
+               <l>
+                  <hi>Shelah,</hi> Incestuous, he himself with <hi>Tamar</hi> lies:</l>
+               <l>Yet ignorant of his guilt, would act the Judge,</l>
+               <l>Till by his Daughter humbled, and the guilty Pledge.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 24.)</head>
+               <l>
+                  <hi>Tamar,</hi> by <hi>Judah</hi> to the Flame's condemn'd,</l>
+               <l>Produc'd the Pledge, which did her life defend.</l>
+               <l>The rash, unhappy, guilty <hi>Judah</hi> streight</l>
+               <l>Himself condemning, subtle <hi>Tamar</hi> does acquit.</l>
+            </lg>
+            <pb facs="tcp:206948:17"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>23 Iudahs incest Gen: 38:18</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>24 Tamar to be burnt: 38:24</head>
+                  <q>
+                     <hi>And he said what pledge shall I giue and she said thy Signet and &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi> And Iudah saied being her forth and let her be burnt &amp;c.</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:18"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>25 Iosep<seg rend="sup">h</seg>s dreames. 37.:7</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>
+                     <hi>26 Ioseph sold to y<seg rend="sup">e</seg> Ishm<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>elites Gen: 37.28.</hi>
+                  </head>
+                  <q>
+                     <hi>Gen: 37.7. For behold wee were bindīg sheaues in the field and to my &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi> Gen: 37:27. Come let us sell him to y<seg rend="sup">e</seg> Ishmelites and lett not our hands &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:18"/>
+               <head>(N<seg rend="sup">o</seg>. 25.)</head>
+               <l>His future Greatness, glorious Dreams reveal,</l>
+               <l>Whom envious Brethren into <hi>Aegypt</hi> sell.</l>
+               <l>The Sheaves, the Sun, and Moon, and Stars</l>
+               <l>To injur'd <hi>Joseph</hi> prove Astrologers.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 26.)</head>
+               <l>Yet tho his future Glories they foretel,</l>
+               <l>His nearer miseries they conceal:</l>
+               <l>His threatned life, and happy freedom lost,</l>
+               <l>By envious Brethren, who should love him most.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:19"/>
+               <head>(N<seg rend="sup">o</seg>. 27.)</head>
+               <l>But Providence had otherwise decreed,</l>
+               <l>In <hi>Egypt</hi> to preserve the chosen Seed.</l>
+               <l>Hence <hi>Joseph</hi> is permitted to be sold,</l>
+               <l>That plenteous <hi>Aegypt</hi> he might after hold.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 28.)</head>
+               <l>
+                  <hi>Joseph</hi> by his Mistress courted, flies,</l>
+               <l>While the false adultrous Wife pursues with cries,</l>
+               <l>Which nought availing, she her Lust converts</l>
+               <l>To rage, her Husband too perverts.</l>
+            </lg>
+            <pb facs="tcp:206948:19"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>27 Ioseph sold for 20 pieces. Gen: 37.28</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>28 Ioseph resisteth his mistrisse 39:12</head>
+                  <q>
+                     <hi>Gen: 37:28. Then there passed by Midi<g ref="char:EOLunhyphen"/>anites marchant men &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi> Gen: 39:12 And she caught him by his gament saying Lie with mee &amp;c.</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:20"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>29 Rahabs covenant Iosh: 2:12</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>30 12 stones taken out of Iordan Iosh: 4:2</head>
+                  <q>
+                     <hi>Iosh: 2:12 Now therefore I pray you swear unto me by y<seg rend="sup">e</seg> Lord since I haue &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi> Iosh: 4:2. Take you 12 men out of the people out of every tribe, a man &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:20"/>
+               <head>(N<seg rend="sup">o</seg>. 29.)</head>
+               <l>How fair the Harlot <hi>Rahab</hi> does in History stand,</l>
+               <l>Her Faith and Truth a large Reward command;</l>
+               <l>With <hi>Israel,</hi> 'gainst her Country she combines,</l>
+               <l>For which her House alone in safety still remains.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 30.)</head>
+               <l>When <hi>Israel</hi> and the Ark through <hi>Jordan</hi> past,</l>
+               <l>The rowling Waters on a heap were cast:</l>
+               <l>Hence twelve Stones are for a memorial set,</l>
+               <l>Least late Posterity the wonder should forget.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:21"/>
+               <head>(N<seg rend="sup">o</seg>. 31.)</head>
+               <l>
+                  <hi>J<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>shua</hi> at <hi>Gilgal,</hi> by the express command</l>
+               <l>Of God, does of the <hi>Israelites</hi> demand,</l>
+               <l>That each the Rite of Circumcision should renew,</l>
+               <l>And the establisht Covenant thereby persue.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 32.)</head>
+               <l>Surrounded often by the Ark of God,</l>
+               <l>The Walls of <hi>Jericho</hi> on the ground are laid:</l>
+               <l>So far an Arm'd a Sacred Power exceeds,</l>
+               <l>So far Divine surpass all Humane deeds.</l>
+            </lg>
+            <pb facs="tcp:206948:21"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>31 Circumsision renewed Iosh: 5:3</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>32 The Arke of y<seg rend="sup">e</seg> Covenant Iosh: 6:4</head>
+                  <q>
+                     <hi>Iosh: 5:3. And Ioshua made him sharp knives and circumcised y<seg rend="sup">e</seg> children &amp;c</hi>
+                  </q>
+                  <q>
+                     <hi>Iosh: 6:4 And seven priests shall bear. before y<seg rend="sup">e</seg> ark 7 trumpets of mans &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:22"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>33 Fiue Kings hanged Iosua: 10:26.</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>34 Gideons present. Iudges 6:20.</head>
+                  <q>
+                     <hi>10:26 And afterward Iosua smot and slew them and hanged y<seg rend="sup">m</seg> &amp;c</hi>
+                  </q>
+                  <q>
+                     <hi>6:20 And y<seg rend="sup">e</seg> angell of God said unto him take y<seg rend="sup">e</seg> flesh and y<seg rend="sup">e</seg> unleavened &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:22"/>
+               <head>(N<seg rend="sup">o</seg>. 33.)</head>
+               <l>O <hi>J<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>shua!</hi> wondrous was thy Power, when</l>
+               <l>With thy word thou could'st arrest the Sun;</l>
+               <l>Anon five crown'd Heads, to ignominious death</l>
+               <l>When <hi>Joshua</hi> bids, resign their Royal breath.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 34.)</head>
+               <l>While <hi>Israel</hi> by the <hi>Madianites</hi> opprest,</l>
+               <l>Longs for deliverance and peaceful rest;</l>
+               <l>
+                  <hi>Gide<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> encourag'd by an Angel leads</l>
+               <l>The Sacred Host, which with success he heads:</l>
+               <l>His Offering and his Present were approv'd,</l>
+               <l>Which in wondrous Clouds and Fire upwards mov'd.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:23"/>
+               <head>(N<seg rend="sup">o</seg>. 35.)</head>
+               <l>
+                  <hi>Gideon</hi> distrustful of success,</l>
+               <l>For signs of victory does press</l>
+               <l>Twice by the Fleece assur'd, to battle leads</l>
+               <l>The Sacred Host, which with success he heads.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 36.)</head>
+               <l>Least <hi>Israel</hi> on Humane Force should now depend,</l>
+               <l>Their Strengths diminisht by express command;</l>
+               <l>And <hi>Gideon</hi> with three hundred men, who lapt</l>
+               <l>Like Dogs, the numerous <hi>Madianite</hi> attackt.</l>
+            </lg>
+            <pb facs="tcp:206948:23"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>35 Gedeon Fleece Iudg: 6:37</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>36 Gideons army Iudg: 6:5:</head>
+                  <q>
+                     <hi>6.27. Behold I will put a fleece of wooll, in the floor and if the</hi>
+                  </q>
+                  <q>
+                     <hi>dew 7:5 So he brougt down the people unto y<seg rend="sup">e</seg> water; and y<seg rend="sup">e</seg> Lord said &amp;c.</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:24"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>37 Iepthah &amp; his daugter Iudg: 11:39</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>38 Their Sacrifices</head>
+                  <q>
+                     <hi>11:39: And it came to passe at y<seg rend="sup">e</seg> end of two months, that she returned to her &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>Father who did with her according to his vow which he had vowed &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:24"/>
+               <head>(N<seg rend="sup">o</seg>. 37.)</head>
+               <l>Oh saddest instance of unhappy vows!</l>
+               <l>The beautious Maid beneath their mischief bows;</l>
+               <l>
+                  <hi>Jephtha</hi> her Father swears, and she obeys,</l>
+               <l>And to her Fathers rashness falls a Sacrifice.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 38.)</head>
+               <l>Only this one request she to her Father makes,</l>
+               <l>Whose heart with pitty to the noble Virgin akes;</l>
+               <l>That ranging on the Mountains she might there bewail</l>
+               <l>Her Virgin state, then she a Sacrifice would fall.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:25"/>
+               <head>(N<seg rend="sup">o</seg>. 39.)</head>
+               <l>While <hi>Manoah</hi> and his Wife the joyful news receive</l>
+               <l>Of <hi>Sampson's</hi> birth, and the deputed Angel streight believe.</l>
+               <l>They with earnest vows a Sacrifice prepare,</l>
+               <l>Its flames the wondrous Angels rear.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 40.)</head>
+               <l>As <hi>Sampson</hi> with his Parents goes,</l>
+               <l>To marry her he so much loves;</l>
+               <l>Assaulted by a Lyon in his way,</l>
+               <l>To his wondrous strength, the Beast becomes a Prey.</l>
+            </lg>
+            <pb facs="tcp:206948:25"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>39 Monoahs Sacrifice Iudg: 13:20</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>40 Samson killeth a Lion: 14:6.</head>
+                  <q>
+                     <hi>13:20 For it came to passe when y<seg rend="sup">e</seg> flame went up▪ towards heaven 14.6. And y<seg rend="sup">e</seg> spirit of y<seg rend="sup">e</seg> Lord came mightilie upon him &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:26"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>
+                     <hi>41 Samson smiteth y<seg rend="sup">e</seg> Philistines Iudg: 15<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>15</hi>
+                  </head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>42 Simson carieth away y<seg rend="sup">e</seg> Gates Iudg: 16:3</head>
+                  <q>
+                     <hi>15:15: And he found a new jaw bone of of an Asse, and putforth his hand and &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>16:5 And Samson lay till midnight and arose at midnight and tooke the &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:26"/>
+               <head>(N<seg rend="sup">o</seg>. 41.)</head>
+               <l>Such slaughter with such arms was never known,</l>
+               <l>Thy strength was Heaven's, O <hi>Sampson,</hi> not thy own:</l>
+               <l>The Spirit of the Lord was mighty on thee now,</l>
+               <l>Alone, the proud <hi>Philistians</hi> to subdue.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 42.)</head>
+               <l>
+                  <hi>Sampson</hi> by Love and <hi>Gaza</hi>'s Walls confin'd,</l>
+               <l>Again by wondrous strength his Fate declin'd;</l>
+               <l>The City Gates away he on his Shoulders bears,</l>
+               <l>Which on the Neighbouring Hills, he as a Trophey rears.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:27"/>
+               <head>(N<seg rend="sup">o</seg>. 43.)</head>
+               <l>A false lascivious Woman him subdues,</l>
+               <l>Whom an advers Army conquering views;</l>
+               <l>
+                  <hi>Sampson</hi> by the treacherous Whore's betray'd,</l>
+               <l>Who else, <hi>Israel</hi>'s Yoke, on the <hi>Philistines</hi> neck had laid.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 44.)</head>
+               <l>Now big with Fate, the mighty <hi>Sampson</hi> bows,</l>
+               <l>And with his last utmost strength subdues his foes;</l>
+               <l>Blinded and derided, he revenge resolves,</l>
+               <l>Tho in the common Ruin he himself involves.</l>
+            </lg>
+            <pb facs="tcp:206948:27"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>43 Delilahs falshood Iug: 10▪ 19.</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>44 Samsons death Iudg: 16:29.</head>
+                  <q>
+                     <hi>16:19 And she made him sleep upon her lap and she caled for a man and she &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>16:29 And Samson tooke hold of y<seg rend="sup">e</seg> two midlepillres upon which the house &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:28"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>
+                     <hi>45 Naomi &amp; her two daughters. 1:8 Ruth. <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.2.34</hi>
+                  </head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>46 Boaz and Ruth 2:c: 8. v.</head>
+                  <q>
+                     <hi>8 And Naomi said unto her two daughters in law, Go return &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>:8 Then said Boaz unto Ruth hearest thou not my daughter &amp;<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:28"/>
+               <head>(N<seg rend="sup">o</seg>. 45.)</head>
+               <l>Happy <hi>Naomi</hi> with such Daughters blest,</l>
+               <l>Which in thy utmost troubles, give thee ease and rest;</l>
+               <l>Of Faithful tender <hi>Ruth</hi> each Daughter-in-Law may learn,</l>
+               <l>To love like her, and equal praises earn.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 46.)</head>
+               <l>
+                  <hi>Ruth</hi>'s faithful Love by Providence is blest,</l>
+               <l>While she in <hi>Boaz</hi> Love, with plenty meets and rest</l>
+               <l>With eager Love, the humble <hi>Ruth</hi> he meets,</l>
+               <l>And she in <hi>Boaz</hi> with surprizing kindnes<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> meets.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:29"/>
+               <head>(N<seg rend="sup">o</seg>. 47.)</head>
+               <l>
+                  <hi>Naomi</hi> now inform'd of <hi>Boaz</hi> Love,</l>
+               <l>Does <hi>Ruth</hi> by secret steps to marriage move;</l>
+               <l>While <hi>B<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>az</hi> more and more the virtuous Maid desires,</l>
+               <l>And seeks with marriage Rites to consecrate his fires.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 48.)</head>
+               <l>Mournful <hi>Naomi</hi> now is happy made,</l>
+               <l>And <hi>Boaz</hi> triumphs in the charming Maid;</l>
+               <l>
+                  <hi>I<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rael</hi>'s Customs, and the nuptial Rite's observ'd,</l>
+               <l>Give faithful <hi>Ruth,</hi> the Blessings she deserv'd.</l>
+            </lg>
+            <pb facs="tcp:206948:29"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>47 Ruth lieth at Boaz feet. 3:7</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>48 He marieth her 4:9</head>
+                  <q>
+                     <hi>3:7 And when Boaz had eaten &amp; drunk and his heart was merry</hi>
+                  </q>
+                  <q>
+                     <hi>&amp;c 4:9 And Boaz said unto the elders and unto all the people &amp;c.</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:30"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>49 Samuell killeth Agag. 1. Sam: 15:33</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>50 David killeth Goliah. 1 Sam: 17:51.</head>
+                  <q>
+                     <hi>And Samuell said as thy sword hath made women childlesse so shall &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi>Therefore David ran and stood upon the Philistine &amp; tooke his &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:30"/>
+               <head>(N<seg rend="sup">o</seg>. 49.)</head>
+               <l>While <hi>Saul,</hi> against th' express command of God,</l>
+               <l>Delivers <hi>Agag</hi> from the avenging Rod;</l>
+               <l>
+                  <hi>Samuel,</hi> with a juster zeal enflam'd,</l>
+               <l>Slayt <hi>Agag,</hi> and fullfills the strict command.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 50.)</head>
+               <l>
+                  <hi>Goliah</hi> trusting in his strength, blasphemes</l>
+               <l>The God, who <hi>Israel</hi> still redeems;</l>
+               <l>While <hi>David</hi> by that God sustain'd,</l>
+               <l>Destroys the Monster with an easie hand.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:31"/>
+               <head>(N<seg rend="sup">o</seg>. 51.)</head>
+               <l>Curst be the rage of <hi>Saul,</hi> and blest be <hi>David</hi> still,</l>
+               <l>Whose praises every grateful mouth do fill;</l>
+               <l>While <hi>Saul</hi> with envy meager, seeks to kill</l>
+               <l>The chosen Youth, who <hi>Israel</hi>'s Throne must fill.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 52.)</head>
+               <l>What Love can equal that which <hi>David</hi> bore</l>
+               <l>For <hi>Jonathan?</hi> or that which he for <hi>David</hi> wore?</l>
+               <l>Not Womens softest Love surpasses their,</l>
+               <l>When either of the others danger hears.</l>
+            </lg>
+            <pb facs="tcp:206948:31"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <p>
+                     <hi>51 Saul envieth him. I Sam: 18:11</hi>
+                  </p>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <p>
+                     <hi>52 Ionathans kindnesse II Sam: 20:35</hi>
+                  </p>
+                  <q>
+                     <hi>And Saul cast y<seg rend="sup">e</seg> Iaudin for he said, I will smite David even to the wall &amp;<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </q>
+                  <q>
+                     <hi>And it came to passe in y<seg rend="sup">e</seg> morning y<seg rend="sup">t</seg> Ionathan went out in to y<seg rend="sup">e</seg> feild &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:32"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <p>
+                     <hi>53 Nabals churlishnesse I Sam: 25:10</hi>
+                  </p>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <p>
+                     <hi>54 Abigails wisdome I Sam: 25:18</hi>
+                  </p>
+                  <q>
+                     <hi>25:10 And Naball answered Davids servants, and said who is David &amp;c.</hi>
+                  </q>
+                  <q>
+                     <hi>25:18 Then Abigail made hast and took 200 loaves and 2 botles of wine &amp;<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:32"/>
+               <head>(N<seg rend="sup">o</seg>. 53.)</head>
+               <l>Tho Power and want the gentle <hi>David</hi> press,</l>
+               <l>By force of Arms his miseries to redress;</l>
+               <l>Yet gently he to churlish <hi>Nabal</hi> sues,</l>
+               <l>For that, which none but churlish <hi>Nabal</hi> would refuse.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 54.)</head>
+               <l>
+                  <hi>David</hi> to fierce revenge by <hi>Nabal</hi> rais'd,</l>
+               <l>By prudent <hi>Abigail</hi> is streight appeas'd;</l>
+               <l>Who after has the honour to become,</l>
+               <l>The Wife of him who's destin'd to the Throne.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:33"/>
+               <head>(N<seg rend="sup">o</seg>. 55.)</head>
+               <l>Nor Dreams, nor Urim, nor the Prophets now,</l>
+               <l>Direct despairing <hi>Saul</hi> what he should do;</l>
+               <l>To horrid <hi>Endor</hi> for an Answer he repairs,</l>
+               <l>An Answer paler then his swooning fears.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 56.)</head>
+               <l>While wounded and expiring <hi>Saul</hi> disdains</l>
+               <l>The <hi>Philistins</hi> should deface his Great Remain:</l>
+               <l>For a cruel favour he to his Servant sues,</l>
+               <l>Which Love it self, compels him to refuse.</l>
+            </lg>
+            <pb facs="tcp:206948:33"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>55 The witch of Endor I Sam: 28:8.</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>56 Sauls death &amp; his armour bearer</head>
+                  <q>
+                     <hi>28:8 And Saul disguised himselfe and put on other rayment and &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi>52:4 Then said Saul to his armour bearer draw thy sword and &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:34"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>57 Bethshebas request. 1 Kings. 2.20:</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>58 He seates his mother on his right hand 2:22</head>
+                  <q>
+                     <hi>2:20. Then she said I desire one smal petition of the<seg rend="sup">e</seg> I pray thee say me &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>2:22: And why doest thou aske Abishag y<seg rend="sup">e</seg> Skunamite for Adonijah &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:34"/>
+               <head>(N<seg rend="sup">o</seg>. 57.)</head>
+               <l>Unhappy <hi>Adonijah,</hi> twice unhappy now,</l>
+               <l>The Kingdom lost to arm'd <hi>Benajah</hi>'s hand must bow:</l>
+               <l>Whilst he to <hi>Bathsheba,</hi> and she to <hi>Solomon</hi> repairs</l>
+               <l>For <hi>Abishag,</hi> of his death resolv'd he hears.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 58.)</head>
+               <l>Tho <hi>Solomon</hi> is seated on the Throne,</l>
+               <l>Hi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> humble Mother he can ne're disown;</l>
+               <l>But seating her at his right hand he hears,</l>
+               <l>The much displeasing Message which she bears.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:35"/>
+               <head>(N<seg rend="sup">o</seg>. 59.)</head>
+               <l>But why <hi>Adonijah</hi>'s death thou should'st command,</l>
+               <l>For courting <hi>Abishag,</hi> is hard to understand;</l>
+               <l>Why the Great <hi>Benajah</hi> should be thus employ'd,</l>
+               <l>Or thy elder Brother should so quickly be destroy'd.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 60.)</head>
+               <l>Now <hi>Solomon</hi> his inspir'd Wisdom shews,</l>
+               <l>While he the Harlot▪ false pretences overthrow;</l>
+               <l>By threatned death, to Nature he appeals,</l>
+               <l>Which the true Mother (<hi>Israel</hi> wondring) streight reveals.</l>
+            </lg>
+            <pb facs="tcp:206948:35"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>59 Adonijah slain 2:25.</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>60 Solomons Iudgment. 5:16:</head>
+                  <q>
+                     <hi>2:25: And king Solomon sent by y<seg rend="sup">e</seg> hand of Benajah y<seg rend="sup">e</seg> son of</hi>
+                  </q>
+                  <q>
+                     <hi>&amp;c 3:16 Then came there two women that were harlots unto the king &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:36"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>61 The Temple begun. 1 Kings. 6:2.</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>62 Solomons prayer 1 Kings. 8:23</head>
+                  <q>
+                     <hi>6:2: And y<seg rend="sup">e</seg> house w<seg rend="sup">ch</seg> King Solomon built for the Lord, the length thereof &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>8:23: And he said Lord God of Israell there is no good like the<seg rend="sup">e</seg> in heaven &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:36"/>
+               <head>(N<seg rend="sup">o</seg>. 61.)</head>
+               <l>Now <hi>Solomon</hi> by God's appointment rears,</l>
+               <l>The wondrous Temple, and the work of Years;</l>
+               <l>Himself the Consecrating Priest, by him the People Host,</l>
+               <l>Who under him enjoy their wisht for peace and rest.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 62.)</head>
+               <l>While <hi>Solomon</hi> at the Altar God implores,</l>
+               <l>He with wondrous Priviledges the Temple stores;</l>
+               <l>Obtains of God that he would accept the Vows</l>
+               <l>Of the distrest, who praying towards the Temple bows.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:37"/>
+               <head>(N<seg rend="sup">o</seg>. 63.)</head>
+               <l>The Fame of <hi>Solomon</hi> thro' all the World disperst.</l>
+               <l>The Glorious <hi>Southern</hi> Queen becomes his guest;</l>
+               <l>Who owns his Wisdom and his Glory more,</l>
+               <l>Than spread<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng Fame had ere declar'd before.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 64.)</head>
+               <l>Lo! here the cursed force of Woman kind,</l>
+               <l>Lo! here by them the greatest Wisdom blind;</l>
+               <l>Blind to Idolatry, so strong the Female Poyson is</l>
+               <l>That even upon <hi>Solomon</hi> its effect it cannot miss.</l>
+            </lg>
+            <pb facs="tcp:206948:37"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>63 Solomons Magnificence 1 Kings 10:1</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>64 His offering to y<seg rend="sup">e</seg> Idoll. I Kings. 11:4.</head>
+                  <q>
+                     <hi>10.1: And y<seg rend="sup">e</seg> que<seg rend="sup">e</seg>n of Sheba heard of y<seg rend="sup">e</seg> fame of Solomon concerning &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>11:4: For it come to passe when Solomō was old that his wiues turned away &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:38"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>65 DAVID</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>66 SOLOMON</head>
+                  <p>
+                     <hi>David king and Prophet author of the Psalmes and reigned 40 yea<g ref="char:EOLunhyphen"/>
+                        <seg rend="sup">•</seg>
+                     </hi>
+                  </p>
+                  <p>
+                     <hi>Solomon reigned in Ierusalem and over all Israell fortie yeares</hi>
+                  </p>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:38"/>
+               <head>(N<seg rend="sup">o</seg>. 65.)</head>
+               <l>Harmonious <hi>David,</hi> Great Master of the <hi>Hebrew</hi> Harp,</l>
+               <l>Of Holy Song, and Numbers utmost art:</l>
+               <l>How Pious, and how troubled was thy Reign,</l>
+               <l>Belov'd of God, and of the best of Men.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 66.)</head>
+               <l>How large thy Wisdom, and how great thy State,</l>
+               <l>Scarce Fame her self was able to relate;</l>
+               <l>The Queen of <hi>Sheba</hi> after she had seen,</l>
+               <l>Declar'd the Truth was greater then the Fame.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:39"/>
+               <head>(N<seg rend="sup">o</seg>. 67.)</head>
+               <l>How excellent <hi>Jehosaphat</hi> was thy Reign,</l>
+               <l>If with unlawful Allies thou'dst refus'd to joyn;</l>
+               <l>Had the High places too gone down,</l>
+               <l>Few had ever wore so bright a Crown.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 68.)</head>
+               <l>At eight years old, <hi>Josias</hi> all reforms,</l>
+               <l>And while a Child, such wondrous things performs,</l>
+               <l>So great the Passeover, and so good his Reign,</l>
+               <l>That nought but Sacred Writ our Faith should gain.</l>
+            </lg>
+            <pb facs="tcp:206948:39"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>67 IEHOSHAPHAT</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>68 IOSIAS</head>
+                  <p>
+                     <hi>Iehoshaphat reigned 5 and 20 yeares &amp; conq<seg rend="sup">u</seg>ered y<seg rend="sup">e</seg> Amoni<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s</hi>
+                  </p>
+                  <p>
+                     <hi>Iosias reighned 31 yeares he demo<g ref="char:EOLhyphen"/>lished Idols and brought in &amp;c▪</hi>
+                  </p>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:40"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>69 Ahijahs prophecie I Kings: 11:29:</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>70 Reboboam King. I. Kings: 12:6.</head>
+                  <q>
+                     <hi>11:29: And it came to passe at that time when Ieroboam went out of Ierusa<seg rend="sup">m</seg> &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>12:6 And King Rehoboam consulted with y<seg rend="sup">e</seg> old men that stood before &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:40"/>
+               <head>(N<seg rend="sup">o</seg>. 69.)</head>
+               <l>While <hi>Ahijah</hi> from <hi>Jeroboam</hi> tears</l>
+               <l>The new Prophetick Garment which he wears;</l>
+               <l>He <hi>Solomon</hi>'s Apostacy thereby declares</l>
+               <l>Shall, by the Apostate Tribes, be punisht in his Heirs.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 70.)</head>
+               <l>While the revolting Tribes on <hi>Rehoboam</hi> press,</l>
+               <l>To make their seeming heavy burthenless,</l>
+               <l>He with the Aged Counsellors consults,</l>
+               <l>Then foolishly rejects their wise Results.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:41"/>
+               <head>(N<seg rend="sup">o</seg>. 71.)</head>
+               <l>What God ordains can never be withstood,</l>
+               <l>
+                  <hi>Ahijah</hi>'s Prophecy <hi>Rehoboam</hi>'s self makes good;</l>
+               <l>So when of God forsaken, we forsake our selves,</l>
+               <l>And run on endless Rocks, and Sands, and Shelves.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 72.)</head>
+               <l>So <hi>Rehoboam</hi> by his hot young States-men led,</l>
+               <l>Provokes the Tribes, and <hi>Jeroboam</hi> at their Head;</l>
+               <l>Gives 'em an Answer which he must after mourn;</l>
+               <l>And they, to your Tents O <hi>Israel,</hi> return.</l>
+            </lg>
+            <pb facs="tcp:206948:41"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>71 Ieroboam accepteth y<seg rend="sup">e</seg> young mens counsell.</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>72 Ieroboam thretneth y<seg rend="sup">e</seg> old men: 12:14</head>
+                  <q>
+                     <hi>12:9. And he said unto them what counsell giue yee, that y<seg rend="sup">e</seg> may &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi>12:14: And spoke unto them after the counsell of y<seg rend="sup">e</seg> young men saying &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:42"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>
+                     <hi>73 Elijah <choice>
+                           <abbr>prophi<seg rend="sup">h</seg>
+                           </abbr>
+                           <expan>prophisizeth</expan>
+                        </choice> against Ahab King 17:1</hi>
+                  </head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>74 Elijah and Zarephath i King: 27:9</head>
+                  <q>
+                     <hi>17:i And Elijah y<seg rend="sup">e</seg> Tishbite, who was of the inhabitants of Gilliad said unto Ahab &amp;c.</hi>
+                  </q>
+                  <q>
+                     <hi>17:9 Arise and get thee to Zerephath which belongeth to Zedon and &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:42"/>
+               <head>(N<seg rend="sup">o</seg>. 73.)</head>
+               <l>What Emperor ever like <hi>Elijah</hi> spoke?</l>
+               <l>O <hi>Ahab!</hi> it shall be rain or drought, as I invoke;</l>
+               <l>Anon by <hi>Cheriths</hi> Brook, commanded, he retires,</l>
+               <l>Where he is fed by Ravens, and celestial Fires.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 74.)</head>
+               <l>Thence by command to <hi>Zerephath</hi> repairs,</l>
+               <l>And the despairing Widow rescues from her fears,</l>
+               <l>The exhausted Meal and Oyl, by miracle recruits,</l>
+               <l>And all the Widows killing doubts confutes.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:43"/>
+               <head>(N<seg rend="sup">o</seg>. 75.)</head>
+               <l>As <hi>Ahab</hi> to the Prophet cries,</l>
+               <l>Is't thou the Peace of <hi>Israel</hi> destroys?</l>
+               <l>
+                  <hi>Elijah</hi> boldly to the King replies,</l>
+               <l>Thou and thy Father's House, its Peace annoys.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 76.)</head>
+               <l>The Grand Depcision now <hi>Elijah</hi> makes,</l>
+               <l>Twixt <hi>Ahab</hi>'s Gods, and him whom he invokes;</l>
+               <l>
+                  <hi>Elijah</hi> to Caelestial Fire appeals,</l>
+               <l>Celestial Fire the disputed doubt reveales.</l>
+            </lg>
+            <pb facs="tcp:206948:43"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>75 Elijah reprooveth Ahab i King: 18:18.</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>76 Elijah Sacrificeth i Kings i8:58</head>
+                  <q>
+                     <hi>i8:i8 And he answered, I haue not trou<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>: Israell, but thou and thy fathers house &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>i8 38 And y<seg rend="sup">e</seg> fire of y<seg rend="sup">e</seg> Lord fell, and consumed y<seg rend="sup">e</seg> burnet Sacrifice &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:44"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>77 Elijah in y<seg rend="sup">e</seg> Fiery chariot II<seg rend="sup">d</seg> Kin: 11</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>78 The Widdows oil II Kings 4:1</head>
+                  <q>
+                     <hi>2:11: And it came to passe as they still went on and talked</hi>
+                  </q>
+                  <q>
+                     <hi>&amp;c: 4:1 Now there cryed a certain wo<g ref="char:EOLhyphen"/>man of the wiues of the sons of y<seg rend="sup">e</seg> &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:44"/>
+               <head>(N<seg rend="sup">o</seg>. 77.)</head>
+               <l>The Great <hi>Elijah,</hi> how we all admire!</l>
+               <l>Drawn by flaming Horses in a Coach of Fire;</l>
+               <l>The rappid Whirlewind hastens his ascent,</l>
+               <l>And flaming storms in horror, all the way he went.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 78.)</head>
+               <l>As <hi>Elijah</hi> with compassion to the Widow burn'd,</l>
+               <l>The Pot of Oyl is to a River turn'd;</l>
+               <l>Her debt discharg'd, and she reliev'd,</l>
+               <l>The Cause remov'd for which she griev'd.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:45"/>
+               <head>(N<seg rend="sup">o</seg>. 79.)</head>
+               <l>
+                  <hi>Naaman</hi> seven times in <hi>Jordan</hi>'s Sacred stream,</l>
+               <l>Directed by the Prophet, baths and's made whole again;</l>
+               <l>Health and Youth again return,</l>
+               <l>No more a Leper must he mourn.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 80.)</head>
+               <l>
+                  <hi>Jehu,</hi> enrag'd at <hi>Jezebel,</hi> to the Eunuchs calls,</l>
+               <l>Down on the Pavement streight the painted mur<g ref="char:EOLhyphen"/>dress falls,</l>
+               <l>Now <hi>Naboth</hi>'s blood's reveng'd, and Dogs fulfill</l>
+               <l>The Prophecy of them, who righteous blood could spill.</l>
+            </lg>
+            <pb facs="tcp:206948:45"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>79 Naamans leprosie cured II King<seg rend="sup">5</seg>:14:</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>80 Iezebels death II: Kings 9:33.</head>
+                  <q>
+                     <hi>5:14 Then he went down and dipped him<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>selfe seven times in Iordan &amp;c</hi>
+                  </q>
+                  <q>
+                     <hi>9:33 And he said throw her down, so they threw her down and &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:46"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>81 The Angells salutation Luc: 1:26</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>82 The visitation Luc: 1.39.</head>
+                  <q>
+                     <hi>Luc 1:26 And in y<seg rend="sup">e</seg> sixth month y<seg rend="sup">e</seg> angell Gabriel was sent from God unto a &amp;c</hi>
+                  </q>
+                  <q>
+                     <hi>Luc: 1:39 And Mary arose in those dayes and went into y<seg rend="sup">e</seg> hill countrey</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:46"/>
+               <head>(N<seg rend="sup">o</seg>. 81.)</head>
+               <l>While Sacred <hi>Mary</hi> on the Altar of her heart,</l>
+               <l>Offers the brightest Loves a Lover can impart;</l>
+               <l>Dissolv'd in Sacred Vows and Prayer,</l>
+               <l>She sees the flaming Messenger appear,</l>
+               <l>Who with wondrous words salutes her ear.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 82.)</head>
+               <l>
+                  <hi>Mary</hi> now big with God, a visit pays,</l>
+               <l>To the soft Partner of her Sacred Joys:</l>
+               <l>Each with Anthems worship, Heaven,</l>
+               <l>To each the greatest Honours given.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:47"/>
+               <head>(N<seg rend="sup">o</seg>. 83.)</head>
+               <l>The Shepherds, harmless as their Flocks, are thought,</l>
+               <l>Worthy the mighty Tidings which the Angel brought;</l>
+               <l>So far an innocent Poverty excells</l>
+               <l>The State in which the greatest Emperor dwells.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 84.)</head>
+               <l>That very Law which he destroy'd,</l>
+               <l>He so int<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rely obey'd;</l>
+               <l>That his Sacred Blood he spilt,</l>
+               <l>Rather then incur the smallest guilt.</l>
+            </lg>
+            <pb facs="tcp:206948:47"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>83 The angell and y<seg rend="sup">e</seg> Shepheards Lu: 2:10</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>84 The Circumcision Luc: 2:21</head>
+                  <q>
+                     <hi>Luc: 2:10. And y<seg rend="sup">e</seg> angell said unto them fear not: for behold I bring &amp;c</hi>
+                  </q>
+                  <q>
+                     <hi>Luc: 2:21 And when eight day<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> were accomplished for the &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:48"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>85 Christ preacheth in a ship Mat: 13:2</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>86 The Canaan woman Math: 15:22</head>
+                  <q>
+                     <hi>Mat: 13:2 And a great multitud gathered to gether unto him so that he went &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi> Math 15:22: And behold a woman of Canaan came out of the same coasts &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:48"/>
+               <head>(N<seg rend="sup">o</seg>. 85.)</head>
+               <l>Where ere the People are prepar'd to hear</l>
+               <l>There stands a Church, and there,</l>
+               <l>As Jesus in the Ship, the Preacher may</l>
+               <l>Instruct the People, and direct their way.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 86.)</head>
+               <l>With what wondrous Faith the <hi>Canaanitish</hi> Woman Priest,</l>
+               <l>The Holy Jesus, for her Child possest?</l>
+               <l>Who grants her sad Request, and more,</l>
+               <l>Declares he nere had met so great a Faith before.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:49"/>
+               <head>(N<seg rend="sup">o</seg>. 87.)</head>
+               <l>Never but now was Jesus known to strike,</l>
+               <l>In all his Sacred Story is not found the like;</l>
+               <l>The trading Thieves elsewhere must remove,</l>
+               <l>And the House of God, a House of Prayer prove.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 88.)</head>
+               <l>O fearful sound! O fearful day!</l>
+               <l>Which shall our folly or our Wisdom then display;</l>
+               <l>The wise, to endless Joys consign,</l>
+               <l>But fooles, to endless pains confine.</l>
+            </lg>
+            <pb facs="tcp:206948:49"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>87 The buiers &amp; sellers whipt out Mat: 21:13</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>88 The last Iudgment Mat 25:13</head>
+                  <q>
+                     <hi>Mat: 21.12 And Iesus went into the Temple of God and castout all them &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>Mat: 25:13 Watch therefore for yee know neither y<seg rend="sup">e</seg> day nor y<seg rend="sup">e</seg> hour wherein &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:50"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>89 The palsy cured Mar: 2:4.</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>90 Iesus transfigured Mar. 9:2.</head>
+                  <q>
+                     <hi>Mar: 2:4 And when they saw they cold not come nigh unto him &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi> Mar 9:2: And after six dayes Iesus taketh w<seg rend="sup">th</seg> him Peter Iames and Iohn and &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:50"/>
+               <head>(N<seg rend="sup">o</seg>. 89.)</head>
+               <l>Again by others Faith, the Patient's cur'd,</l>
+               <l>And by the great Physician's to his Health restor'd;</l>
+               <l>The Physician, both of Bodies and of Souls,</l>
+               <l>Forgives his Sin, and his Disease controules.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 90.)</head>
+               <l>A while the Godhead blazes, and he is seen</l>
+               <l>More Glorious than the flaming Sun;</l>
+               <l>His Glories now break forth, transfigur'd he appears</l>
+               <l>Clad in the Sun, which he in Heaven wears.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:51"/>
+               <head>(N<seg rend="sup">o</seg>. 91.)</head>
+               <l>O saddest Funeral Rite! and sadder then the Grave,</l>
+               <l>
+                  <hi>Mary</hi> annoints him to his death, who all the World must save:</l>
+               <l>Who ere the vast loss would rightly prize,</l>
+               <l>Should not shed a Tear, but shed his Eyes.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 92.)</head>
+               <l>Our dearest Lord is risen from the Dead,</l>
+               <l>So may the Members rise, and joyn the Head:</l>
+               <l>Triumphs and Loves must cellebrate the day,</l>
+               <l>Glowing Loves, and Anthems pay.</l>
+            </lg>
+            <pb facs="tcp:206948:51"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>91 Christ head anointed Mat: 26:7</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>92 His resurrection Mar 26:1.</head>
+                  <q>
+                     <hi>Mat: 26:7. Ther<seg rend="sup">e</seg> came unto him a wo<g ref="char:EOLhyphen"/>man having an alablaster box &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi> Mar: 16:1. And when y<seg rend="sup">e</seg> Sabath day was past, Mary Magdalene and Mary &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:52"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <p>
+                     <hi>93 Iesus brought before Pilate Luk. 13.18</hi>
+                  </p>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <p>
+                     <hi>94 The Iews crown him w<seg rend="sup">th</seg>. thorns Ioh: 19:2</hi>
+                  </p>
+                  <q>
+                     <hi>Luk 15:18 And they cried out all at ouer saying away with this man &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi> Ioh: 19.2: And the soldiers platted a crow̄ of thornes and put it on his head &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:52"/>
+               <head>(N<seg rend="sup">o</seg>. 93.)</head>
+               <l>Behold the Righteous, by the unjust accus'd,</l>
+               <l>None who deserv'd so well, so ill was ever us'd:</l>
+               <l>
+                  <hi>Pilate</hi> himself, his Innocence proclaim'd,</l>
+               <l>But fearful of the Rabble, grants their curst demand.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 94.)</head>
+               <l>Pierst by a Crown of Thornes, his Sacred Head</l>
+               <l>Sheds many a stream of richest purple blood;</l>
+               <l>Thus their Prince and the <hi>Messiah,</hi> thus they treat,</l>
+               <l>Thus their own Happiness and Glory they defeat.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:53"/>
+               <head>(N<seg rend="sup">o</seg>. 95.)</head>
+               <l>Behold the King of <hi>Israel</hi> hanging on a Tree!</l>
+               <l>Behold him freely laying down his Life for thee!</l>
+               <l>For thee, who careless read'st these Lines,</l>
+               <l>Forgetful of his past, and of thy future pains.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 96.)</head>
+               <l>Our infinite Friend is risen from the dead,</l>
+               <l>Let tears of Joy from every eye be shed;</l>
+               <l>Eter<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al Loves are due to thee:</l>
+               <l>Who from sin hast set us free.</l>
+            </lg>
+            <pb facs="tcp:206948:53"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>95 The Crucifiction. Ioh. 19 23</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>96 Christs resurrection Iohn 20:1</head>
+                  <q>
+                     <hi>Ioh: 19:23. Then the soldiers, when they had crucified Iesus, took his garments Ioh: 20:1 The first day of the weeke cometh Mary Magdalene early when &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:54"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>97 Lazerus raised: 11:38: Iohn</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>98 He washeth y<seg rend="sup">e</seg> desciples feet Iohn: 13:5</head>
+                  <q>
+                     <hi>Iesus therefore again groaning in him<g ref="char:EOLhyphen"/>selfe, cometh to y<seg rend="sup">e</seg> graue, It was a &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>Aster that he powreth water in to a ba<g ref="char:EOLhyphen"/>son and began to wash y<seg rend="sup">e</seg> disciples &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:54"/>
+               <head>(N<seg rend="sup">o</seg>. 97.)</head>
+               <l>
+                  <hi>Lazarus</hi> come forth! the Holy Jesus cries,</l>
+               <l>And the departed Spirit presently obeys;</l>
+               <l>Nor life nor death his Power can withstand,</l>
+               <l>But each obeys his powerful command.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 98.)</head>
+               <l>Not all the Triumphs of vain glorious <hi>Rome,</hi>
+               </l>
+               <l>So Just an admiration claim;</l>
+               <l>As to behold thee <hi>Jesus,</hi> perfect God and Man,</l>
+               <l>Perform so low an Office to thy own.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:55"/>
+               <head>(N<seg rend="sup">o</seg>. 99.)</head>
+               <l>Surely divested of the Humane Nature they must be,</l>
+               <l>Who so inhumanly could have treated thee,</l>
+               <l>Nailing that Sacred body to the Tree,</l>
+               <l>Which he assum'd to save both them and thee.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 100.)</head>
+               <l>To <hi>Mary Magdalen,</hi> the Holy Jesus first appears,</l>
+               <l>And she the tydings first to the Apostles bears;</l>
+               <l>From her Example, let the greatest sinners learn to hope,</l>
+               <l>And to black and sad despair never stoop.</l>
+            </lg>
+            <pb facs="tcp:206948:55"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>99 The<seg rend="sup">y</seg> naile Iesus to y<seg rend="sup">e</seg> crosse Ioh: 19:18</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>100 Iesus appeareth to Mary Magdalen Ioh: 20:15</head>
+                  <q>
+                     <hi>Where they crucified him, and two oth<g ref="char:EOLhyphen"/>er w<seg rend="sup">th</seg> him on either side, one &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi> Iesus saith unto her woman why weepest thou, whom seekest thou. &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:56"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>101 Zacheus y<seg rend="sup">e</seg> Publican Luke 19:2:</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>102 of Cesars tribute Math: 22:15</head>
+                  <q>
+                     <hi>Lu: 19:2: And behold there was a man named Zacheus which was &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>Then went the Pharisees and tooke counsell how they might &amp;c.</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:56"/>
+               <head>(N<seg rend="sup">o</seg>. 101.)</head>
+               <l>
+                  <hi>Zacheus</hi> short of stature, tall of Faith,</l>
+               <l>The honour to entertain our Saviour hath;</l>
+               <l>Our Saviour and Salvation he at once receives,</l>
+               <l>And his whole House is sav'd, while he believes.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 102.)</head>
+               <l>With what a question do the Hypocrites approach</l>
+               <l>Him, who ever, what is Just, was us'd to teach?</l>
+               <l>To God, what to God belongs he gives,</l>
+               <l>While to <hi>Coesar</hi> he reserves, what <hi>Caesar</hi>'s is.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:57"/>
+               <head>(N<seg rend="sup">o</seg>. 103.)</head>
+               <l>Behold him faignting underneath his Cross!</l>
+               <l>Behol<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> how much he suffers to prevent thy loss!</l>
+               <l>What weary steps to death he takes?</l>
+               <l>Which for thee, the great Attonement makes.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 104.)</head>
+               <l>How Great's the Triumph of that glorious day,</l>
+               <l>In whi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h our Saviour past his flaming way?</l>
+               <l>Ascending up to Heaven, where he interceeds for thee,</l>
+               <l>From sin and misery, to set thee free.</l>
+            </lg>
+            <pb facs="tcp:206948:57"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>103 Christ beareth his crosse Ioh: 19:17</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>104 The ascention of Christ Acts: 1:9.</head>
+                  <q>
+                     <hi>And he bearing his crosse went forth in to a place called y<seg rend="sup">e</seg> place &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>And when he hod spoken these things while they behold he was taken &amp;</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:58"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>105 Sauls conversion Act: 9:4.</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>106 The Taylor converted Act: 16:27</head>
+                  <q>
+                     <hi>And he sett to y<seg rend="sup">e</seg> earth and heard a voye saying unto him Saul, &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>And y<seg rend="sup">e</seg> keeper of y<seg rend="sup">e</seg> prison awaking out of his sleep and seeing the &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:58"/>
+               <head>(N<seg rend="sup">o</seg>. 105.)</head>
+               <l>The Rage of <hi>Saul</hi> can now no longer last,</l>
+               <l>But when Jesus calls, must to his Conversion haste;</l>
+               <l>He willingly obeys what ere's enjoyn'd,</l>
+               <l>And by his labours, all the Gentile World is crownd.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 106.)</head>
+               <l>The fearful Jaylor suspecting an escape,</l>
+               <l>On his own life, threatens to commit a Rape;</l>
+               <l>But <hi>Paul</hi> the intended murder presently prevents,</l>
+               <l>And the converted Jaylor, streight repents.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:59"/>
+               <head>(N<seg rend="sup">o</seg>. 107.)</head>
+               <l>With what wondrous force, the Great Apostle speaks?</l>
+               <l>That <hi>Felix,</hi> tho' his Judge, with terror quakes;</l>
+               <l>The amazing Lecture, horrors all his Soul,</l>
+               <l>And thro' his mind, the black Remorses roule.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 108.)</head>
+               <l>What small regards to the Peoples Judgment to be had?</l>
+               <l>Now <hi>Paul</hi>'s with them a murderer, now a God;</l>
+               <l>Still to extreams, the uncertain People move,</l>
+               <l>And without a glimpse of reason, hate or love.</l>
+            </lg>
+            <pb facs="tcp:206948:59"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>107 Paul accused Act: 24:24.</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>108 Paul bitt w<seg rend="sup">th</seg> a Viper Act: 28:3</head>
+                  <q>
+                     <hi>And after certain dayes when Felix came w<seg rend="sup">th</seg> his wife Drusilla &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi> And when Paul had gathered a bundle of sticks and laid &amp;c:</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:60"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>109 The coming of y<seg rend="sup">e</seg> holy Ghost Act: 2:1</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>110 Annanias and Sapphira Act: 5:1.</head>
+                  <q>
+                     <hi>And when y<seg rend="sup">e</seg> day of Pente<seg rend="sup">c</seg>ost was fully come they were all with one &amp;c:</hi>
+                  </q>
+                  <q>
+                     <hi> But a certain man named Ana<g ref="char:EOLhyphen"/>nias with Sapphira his wife &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:60"/>
+               <head>(N<seg rend="sup">o</seg>. 109.)</head>
+               <l>In cloven tongues, the Holy Ghost descends,</l>
+               <l>And power to the great Apostles lends,</l>
+               <l>The Gospel over all the World to spread,</l>
+               <l>And vice and error too, in triumph lead.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 110.)</head>
+               <l>While all, their substance do in common lay,</l>
+               <l>Unhappy <hi>Annanias</hi> and <hi>Saphyra,</hi>
+               </l>
+               <l>Reserving part, their lives betray,</l>
+               <l>Which to their avarice, becomes a prey.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:61"/>
+               <head>(N<seg rend="sup">o</seg>. 111.)</head>
+               <l>Commanded by the Spirit, <hi>Philip</hi> joyns</l>
+               <l>The Eunuch, and what he reads explains;</l>
+               <l>Who anon the Sacred Rite of Baptism desires,</l>
+               <l>And <hi>Philip</hi> streight performs, what he requires.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 112.)</head>
+               <l>Nor Chains, nor Prisons, are sufficient to detain</l>
+               <l>Him, whom the Prayers of the Church do claim;</l>
+               <l>From Heaven an Angel's sent to set him free,</l>
+               <l>Which by his Friends can scarce believed be.</l>
+            </lg>
+            <pb facs="tcp:206948:61"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>111 Phillip baptized y<seg rend="sup">e</seg> Eūuch Act 8:38:</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>112 Peter led out of Prison Act: 12:7</head>
+                  <q>
+                     <hi>And hee com̄anded y<seg rend="sup">e</seg> Chariot to sta<g ref="char:EOLhyphen"/>nd still and they went down &amp;c.</hi>
+                  </q>
+                  <q>
+                     <hi> And behold y<seg rend="sup">e</seg> Angell of y<seg rend="sup">e</seg> Lord came upon him and a light &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:62"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>113 The corn grass, &amp; trees, fired 8.7</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>114 The seven Angells soundeth 8:2</head>
+                  <q>
+                     <hi>8:7: The first angell sounded and there followed hail &amp;c.</hi>
+                  </q>
+                  <q>
+                     <hi>8:2: And I saw y<seg rend="sup">e</seg> seven angel<seg rend="sup">s</seg> which stood before god &amp;c.</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:62"/>
+               <head>(N<seg rend="sup">o</seg>. 113.)</head>
+               <l>While the first Angel does with his Trumpet sound,</l>
+               <l>Hail, and Blood, and Fire descend;</l>
+               <l>Which a third part of th' Trees, and half the Grass destroy,</l>
+               <l>And fruitful Natures product, much annoy.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 114.)</head>
+               <l>The seventh Seal is op'd in Heaven, and for the space</l>
+               <l>Of half an hour, silence rules ore all the place;</l>
+               <l>When seven Angels before God appear,</l>
+               <l>Who sounding Trumpets in their hands do bear.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:63"/>
+               <head>(N<seg rend="sup">o</seg>. 115.)</head>
+               <l>The sixth Seal is open'd, and the Sun</l>
+               <l>Turns black as night, a bloody Scarlet paints the Moon.</l>
+               <l>The flaming Stars from Heaven fall,</l>
+               <l>The Heavens themselves, are roll'd up like a scroll.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 116.)</head>
+               <l>To four Angels power to hurt the Earth is given,</l>
+               <l>And to a fifth, restraining Power from Heaven,</l>
+               <l>Till the Elect were seal'd, and they secure</l>
+               <l>From all the mischiefs of the wasting Power.</l>
+            </lg>
+            <pb facs="tcp:206948:63"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>115 The starrs fall from heaven. 6.13</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>116 The tribes sealed Rev: 7:1.</head>
+                  <q>
+                     <hi>6.13. And y<seg rend="sup">e</seg> starrs of heaven fell unto y<seg rend="sup">e</seg> earth &amp;c.</hi>
+                  </q>
+                  <q>
+                     <hi>7.1. And after these things I saw four angels standing &amp;c</hi>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:206948:64"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>117 Satans rage Rev: 13:1</head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>118 Rev: 14 1. The lamb on Sion</head>
+                  <q>
+                     <hi>1<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>:1: And I stood upon y<seg rend="sup">e</seg> Sand of y<seg rend="sup">e</seg> and saw a beast rise up out of: &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>14:1: And I looked &amp; loe, a Lambe sto<g ref="char:EOLhyphen"/>od on y<seg rend="sup">e</seg> mount Sion, &amp;c.</hi>
+                  </q>
+               </figure>
+            </p>
+            <lg>
+               <pb facs="tcp:206948:64"/>
+               <head>(N<seg rend="sup">o</seg>. 117.)</head>
+               <l>The Dragon with his own Power the Beast adorns,</l>
+               <l>Rising from the Sea, with seven Heads and ten Horns;</l>
+               <l>The Beast is for his Power ador'd, while he Blas<g ref="char:EOLhyphen"/>phemes</l>
+               <l>The God, who all things by his Power sustains.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 118.)</head>
+               <l>On <hi>Sions</hi> top, the Sacred Lamb appears,</l>
+               <l>With him a chast crowd, who the mark of 's Father bears;</l>
+               <l>To them alone the Priviledge is given,</l>
+               <l>To here the Sacred Song, is sung in Heaven.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:206948:65"/>
+               <head>(N<seg rend="sup">o</seg>. 119.)</head>
+               <l>Lo a white Cloud! and onit it seen</l>
+               <l>One sitting, like the Son of Man;</l>
+               <l>Who with a sharp Sickle in his hand,</l>
+               <l>Prepares to reap the wide extended Land.</l>
+            </lg>
+            <lg>
+               <head>(N<seg rend="sup">o</seg>. 120.)</head>
+               <l>From the Temple issues now the dread command,</l>
+               <l>To the seven Angels who with Vials stand,</l>
+               <l>Fill'd with the wrath of God, who by him bid</l>
+               <l>Grevious Plagues, on sinful Mortals shed.</l>
+            </lg>
+            <trailer>
+               <hi>FINIS.</hi>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <pb facs="tcp:206948:65"/>
+                  <head>
+                     <hi>119 The earth rea<gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Rev: 14 14:</hi>
+                  </head>
+               </figure>
+               <figure>
+                  <figDesc>engraving of biblical scene</figDesc>
+                  <head>120 The vials of wrath Rev: 16:1</head>
+                  <q>
+                     <hi>14:14: And I looked and behold a white cloud &amp; upon the cloud &amp;c </hi>
+                  </q>
+                  <q>
+                     <hi>16:1: And there came one of y<seg rend="sup">e</seg> seven angels &amp;c.</hi>
+                  </q>
+               </figure>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
